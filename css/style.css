@@ -4,6 +4,10 @@
   font-family: 'Roboto', sans-serif;
 }
 
+/*html, body {
+  height: 100%;
+}*/
+
 .clearfix {
   overflow: auto;
 }
@@ -212,4 +216,9 @@ span {
   .biopic {
     display: block;
   }
+}
+
+body {
+  background: url(../images/background-pattern.png) repeat 0 0;
+
 }
